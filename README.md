@@ -14,4 +14,4 @@ Supplementary Material:
     - Jupyter Notebook 100.0%
 
 Instructions:
-    - Since the data set must be downloaded separately using the cloning of the repository, follow the instructions given in the file readme for setting up and running it.
+    - Downloaded the dataset separately. Then, using the cloning of the repository.
